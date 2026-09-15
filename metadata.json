@@ -1,0 +1,6 @@
+{
+  "name": "Flavoria - Menú Digital",
+  "description": "Menú digital de comidas rápidas con Quasar Framework y Vue 3 inspirado en la línea gráfica de Flavoria: hamburguesas, perros calientes, pizzas, bebidas, postres y promociones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

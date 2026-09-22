@@ -131,7 +131,7 @@ const products = ref([
     price: 27900,
     reviews: 167,
     isChefSpecial: true,
-    image: 'https://images.unsplash.com/photo-1627054234553-2771239c4a5c?auto=format&fit=crop&w=800&q=80',
+    image: 'https://i.pinimg.com/736x/43/37/66/43376652639552aedcdef161d81cbccf.jpg',
     description: 'Salchicha alemana Bratwurst ahumada rellena de queso, queso mozzarella gratinado al soplete, cebolla caramelizada, tocineta crujiente picada, papas chips de la casa y salsa mayo-trufa en pan brioche artesanal.',
     ingredients: ['Salchicha Bratwurst con Queso', 'Queso Mozzarella Gratinado', 'Cebolla Confitada al Vino Tinto', 'Tocineta Picada Extra Crocante', 'Mayo-Trufa Negra', 'Pan de Papa Brioche']
   },
@@ -164,7 +164,7 @@ const products = ref([
     price: 24500,
     reviews: 119,
     isChefSpecial: false,
-    image: 'https://images.unsplash.com/photo-1599599810769-bcde5a160d32?auto=format&fit=crop&w=800&q=80',
+    image: 'https://i.pinimg.com/736x/c4/c4/db/c4c4dbb9d0f9bab138fa48b96661c90f.jpg',
     description: 'Salchicha envuelta en espiral de tocineta ahumada y dorada al grill, bañada en chimichurri rústico de perejil fresco y ajo confitado, con pimientos asados y provolone fundido.',
     ingredients: ['Salchicha Envuelta en Tocineta', 'Chimichurri Rústico de la Casa', 'Pimientos Rojos Asados al Carbón', 'Queso Provolone Fundido', 'Pan Rústico']
   },

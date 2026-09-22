@@ -89,7 +89,7 @@
         <div class="flavoria-card overflow-hidden text-center group">
           <div class="relative h-80 overflow-hidden bg-neutral-950">
             <img
-              src="https://i.pinimg.com/736x/78/2f/02/782f029f635c161c89f1cc9e642889c7.jpg"
+              src="https://i.pinimg.com/736x/0a/8f/50/0a8f50b7b2075aca251cd70c3b72db0a.jpg"
               alt="Chef Mateo Arango"
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
             />

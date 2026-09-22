@@ -157,7 +157,7 @@
         <div class="flavoria-card overflow-hidden text-center group">
           <div class="relative h-80 overflow-hidden bg-neutral-950">
             <img
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80"
+              src="https://i.pinimg.com/1200x/ae/9b/ae/ae9bae263ed27be66a775eff13e603c5.jpg"
               alt="Andrés Morales"
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
             />

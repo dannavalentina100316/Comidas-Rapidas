@@ -89,7 +89,7 @@
         <div class="flavoria-card overflow-hidden text-center group">
           <div class="relative h-80 overflow-hidden bg-neutral-950">
             <img
-              src="https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=800&q=80"
+              src="https://i.pinimg.com/736x/78/2f/02/782f029f635c161c89f1cc9e642889c7.jpg"
               alt="Chef Mateo Arango"
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
             />
@@ -123,7 +123,7 @@
         <div class="flavoria-card overflow-hidden text-center group">
           <div class="relative h-80 overflow-hidden bg-neutral-950">
             <img
-              src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80"
+              src="https://i.pinimg.com/1200x/29/36/a5/2936a5f248ca331e261f8ad8215ad723.jpg"
               alt="Camila Restrepo"
               class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
             />

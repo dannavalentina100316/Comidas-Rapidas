@@ -175,7 +175,7 @@ const products = ref([
     price: 15500,
     reviews: 95,
     isChefSpecial: false,
-    image: 'https://images.unsplash.com/photo-1608270192770-5975107e59b9?auto=format&fit=crop&w=800&q=80',
+    image: 'https://i.pinimg.com/736x/74/1e/b5/741eb5a53e2ded2afd3f896b6ddf5159.jpg',
     description: 'Cerveza de la casa con notas cítricas de maracuyá y toronja, amargor balanceado y cuerpo dorado resplandeciente servida en copa fría.',
     ingredients: ['Lúpulos Cascade y Citra', 'Maltas Pilsen y Caramelo', 'Levadura Ale Neutra', 'Agua Filtrada Pura']
   }

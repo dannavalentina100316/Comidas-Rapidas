@@ -181,7 +181,7 @@ const products = ref([
     price: 31000,
     reviews: 94,
     isChefSpecial: false,
-    image: 'https://chatgpt.com/backend-api/estuary/content?id=file_00000000795c81f9adf7ab10582f311d&ts=497242&p=fs&cid=1&sig=5f963828df6f64e801d6ec18625a42ddee66f0122fa1b83d173870edd1e2fd70&v=0',
+    image: 'https://i.pinimg.com/736x/04/21/07/04210725ae30e4435fff7d04c122507e.jpg',
     description: 'Homenaje a los hongos de bosque. Carne de res con reducción de champiñones portobello y parís al vino blanco, doble queso suizo derretido y alioli de ajo asado con hierbas finas.',
     ingredients: ['200g Carne de Res a la Parrilla', 'Portobellos y Champiñones al Vino', 'Doble Queso Suizo Derretido', 'Alioli de Ajo Rostizado', 'Rúcula Fresca']
   },
